@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Flashcard Quiz App</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+
+    <h1>📚 Flashcard Quiz App</h1>
+
+    <div class="stats">
+        <div class="stat-box">
+            <h3 id="totalCards">0</h3>
+            <p>Total Cards</p>
+        </div>
+
+        <div class="stat-box">
+            <h3 id="currentCard">0</h3>
+            <p>Current Card</p>
+        </div>
+    </div>
+
+    <div class="flashcard" id="flashcard">
+<div class="front">
+    <h2 id="question">No Flashcards Yet</h2>
+</div>
+
+<div class="back">
+    <h2 id="answer">Answer</h2>
+</div>
+    </div>
+
+    <button id="showBtn">🔄 Flip Card</button>
+
+    <div class="navigation">
+        <button id="prevBtn">⬅ Previous</button>
+        <button id="nextBtn">Next ➡</button>
+    </div>
+
+    <div class="progress-container">
+        <div id="progressBar"></div>
+    </div>
+
+
+    <hr>
+
+    <h2>Add New Flashcard</h2>
+
+    <input type="text" id="newQuestion" placeholder="Question">
+
+    <input type="text" id="newAnswer" placeholder="Answer">
+
+    <button id="addBtn">➕ Add Card</button>
+
+    <button id="editBtn">✏ Edit Current</button>
+
+    <button id="deleteBtn">🗑 Delete Current</button>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>

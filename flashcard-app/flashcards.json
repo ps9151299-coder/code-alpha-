@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "question": "What is HTML?",
+    "answer": "HyperText Markup Language"
+  },
+  {
+    "id": 2,
+    "question": "What is CSS?",
+    "answer": "Cascading Style Sheets"
+  },
+  {
+    "id": 3,
+    "question": "What is JavaScript?",
+    "answer": "A programming language used for web development"
+  },
+  {
+    "id": 4,
+    "question": "What is Node.js?",
+    "answer": "A JavaScript runtime environment"
+  },
+  {
+    "id": 5,
+    "question": "What is Express.js?",
+    "answer": "A web framework for Node.js"
+  },
+  {
+    "id": 6,
+    "question": "What is MongoDB?",
+    "answer": "A NoSQL database"
+  },
+  {
+    "id": 7,
+    "question": "What is React?",
+    "answer": "A JavaScript library for building user interfaces"
+  },
+  {
+    "id": 8,
+    "question": "What is an API?",
+    "answer": "Application Programming Interface"
+  },
+  {
+    "id": 9,
+    "question": "What is Git?",
+    "answer": "A distributed version control system"
+  },
+  {
+    "id": 10,
+    "question": "What is GitHub?",
+    "answer": "A platform for hosting Git repositories"
+  },
+  {
+    "id": 11,
+    "question": "What is Bootstrap?",
+    "answer": "A CSS framework for responsive web design"
+  },
+  {
+    "id": 12,
+    "question": "What is JSON?",
+    "answer": "JavaScript Object Notation"
+  },
+  {
+    "id": 13,
+    "question": "What is a Variable?",
+    "answer": "A container used to store data values"
+  },
+  {
+    "id": 14,
+    "question": "What is a Function?",
+    "answer": "A reusable block of code"
+  },
+  {
+    "id": 15,
+    "question": "What is an Array?",
+    "answer": "A collection of multiple values stored in one variable"
+  },
+  {
+    "id": 16,
+    "question": "What is an Object in JavaScript?",
+    "answer": "A collection of key-value pairs"
+  },
+  {
+    "id": 17,
+    "question": "What is a Database?",
+    "answer": "An organized collection of data"
+  },
+  {
+    "id": 18,
+    "question": "What is SQL?",
+    "answer": "Structured Query Language used to manage databases"
+  },
+  {
+    "id": 19,
+    "question": "What is a Primary Key?",
+    "answer": "A unique identifier for a record in a database table"
+  },
+  {
+    "id": 20,
+    "question": "What is REST API?",
+    "answer": "An API that follows REST architectural principles"
+  }
+]
